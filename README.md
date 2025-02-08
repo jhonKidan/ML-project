@@ -1,7 +1,7 @@
 # 🚗 Car Price Prediction using Linear Regression
 
 ## 📌 Project Overview
-This project predicts the price of used cars based on features such as year, mileage, and brand.
+This project predicts the price of cars based on features such as year, mileage, and brand.
 
 ## 📂 Folder Structure
 - `data/` → Dataset files
