@@ -29,4 +29,4 @@ The model was evaluated using Mean Squared Error (MSE) and R² Score.
 
 ## 🔗 Deployment
 - Local API: `https://ml-project-nbml.onrender.com`
--streamlit web UI: `https://ml-project-streamlit.onrender.com`
+
