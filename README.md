@@ -21,7 +21,7 @@ python src/train.py
 
 
 ### 3️⃣ Run API
-cd api uvicorn app:app --reload
+Run using: uvicorn api.api:app --reload
 
 
 ## 📊 Results & Evaluation
