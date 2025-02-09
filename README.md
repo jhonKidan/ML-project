@@ -28,4 +28,5 @@ cd api uvicorn app:app --reload
 The model was evaluated using Mean Squared Error (MSE) and R² Score.
 
 ## 🔗 Deployment
-- Local API: `http://127.0.0.1:8000/predict/?year=2018&mileage=40000&brand_encoded=3`
+- Local API: `https://ml-project-nbml.onrender.com`
+-streamlit web UI: `https://ml-project-streamlit.onrender.com`
