@@ -18,4 +18,4 @@ def predict(year: int, mileage: float, brand_encoded: int):
     prediction = model.predict(features)[0]
     return {"predicted_price": round(prediction, 2)}
 
-# Run using: uvicorn app:app --reload
+# Run using: uvicorn api.api:app --reload
