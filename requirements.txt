@@ -6,3 +6,5 @@ seaborn
 fastapi
 uvicorn
 joblib
+streamlit
+
