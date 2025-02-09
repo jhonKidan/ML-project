@@ -28,5 +28,5 @@ cd api uvicorn app:app --reload
 The model was evaluated using Mean Squared Error (MSE) and R² Score.
 
 ## 🔗 Deployment
-- Local API: `https://ml-project-nbml.onrender.com`https://ml-project-nbml.onrender.com
+- Local API: `https://ml-project-nbml.onrender.com`https://ml-project-nbml.onrender.com/docs
 
